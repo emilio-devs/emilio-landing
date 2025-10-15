@@ -7,6 +7,7 @@ Además, tengo experiencia en el desarrollo de videojuegos, edición de videos y
 ## Tecnologías que manejo
 
 - 🚀 Vue.js
+- 💻 Django
 - 🎨 HTML, CSS y JavaScript
 - 🚀 Node.js
 - 📡 API REST
