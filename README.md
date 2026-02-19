@@ -26,6 +26,7 @@ Además, tengo experiencia en el desarrollo de videojuegos, edición de videos y
 
 - 🔮 [Elemental Legends](https://youtu.be/yPlaxm5nBoI): Videojuego desarrollado en equipo desde cero con `C++`.
 - ⚔ [League of Tanks](https://youtu.be/eG05mY4cpmM): Videojuego desarrollado en ``lenguaje ensamblador Z80` para Amstrad CPC con recursos mínimos, participante en la [CPCRetroDev2019](http://cpcretrodev.byterealms.com/contest/cpc-retrodev-2019/).
+- 🏓[Pong con IA y Power-ups](https://github.com/emilio-devs/PongVsIAECS): Pong single-player desarrollado con `Python` y `Pygame` como experimento para comprender el modelo **Entity Component System (ECS)**.
 
 ## Contacto
 
